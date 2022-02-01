@@ -1,0 +1,10 @@
+{
+    "require": {
+        "vonage/client": "^2.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/package-versions-deprecated": true
+        }
+    }
+}

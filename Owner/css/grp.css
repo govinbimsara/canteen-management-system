@@ -1,0 +1,13 @@
+.grp_area {
+  background-color: rgb(217, 243, 250);
+}
+.myChart {
+  width: 100%;
+  height: 100%;
+}
+.row {
+  margin: 3rem;
+}
+.form-horizontal {
+  background: rgb(122, 122, 122);
+}

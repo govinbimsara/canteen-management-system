@@ -1,0 +1,41 @@
+p,
+h4,
+h5 {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
+  color: #fff;
+}
+p {
+  font-weight: bold;
+}
+h5 {
+  color: black;
+}
+.round {
+  /* border-radius: 20px; */
+  padding: 10px;
+  margin: 50px 250px;
+  padding: 50px;
+  background-color: #455c71;
+}
+.round1 {
+  border: 2px;
+  padding: 10px;
+  margin: 50px 250px;
+  padding: 50px;
+  height: auto;
+  background-color: #455c71;
+}
+body {
+  width: 100%;
+  justify-content: center;
+}
+.comments-box {
+  background-color: #567086;
+  border: none;
+  height: 150px;
+  /* border-radius: 20px; */
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.03);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.03);
+  cursor: pointer;
+}
